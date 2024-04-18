@@ -1,0 +1,5 @@
+﻿  AsyncLogger.cpp
+C:\Users\cata\source\repos\UniversalTraceLibrary\UniversalTraceLibrary\AsyncLogger.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  UniversalTraceLibrary.vcxproj -> C:\Users\cata\source\repos\UniversalTraceLibrary\x64\Debug\UniversalTraceLibrary.exe
